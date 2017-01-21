@@ -46,6 +46,7 @@ Programming Concurrency on the JVM
 [ ] [High Perf Web UI's with Om & ClojureScript (Slides)](http://www.slideshare.net/borgesleonardo/high-performance-web-apps-in-om-react-and-clojurescript)
 ____
 ### Docs
+[Quick Ref for Clojure Core](https://clojuredocs.org/quickref)
 [Clojure Cheatsheet](http://clojure.org/api/cheatsheet)
 [Clojure Programming Wiki](https://en.wikibooks.org/wiki/Clojure_Programming)
 [Clojure Example Cookbook](https://en.wikibooks.org/wiki/Clojure_Programming/Examples/Cookbook)
