@@ -101,6 +101,8 @@ ____
 * [Datomic Home](http://www.datomic.com/)
 * [ ] [Datomic Tutorial](http://docs.datomic.com/tutorial.html)
 * [Datomic Training Example](https://github.com/levand/datomic-training-8-29-2016)
+* [Learn Datalog Today](http://www.learndatalogtoday.org/)
+* [The Architecture of Datomic](https://www.infoq.com/articles/Architecture-Datomic)
 
 ##### Emacs
 *(and other dev environment related)*
